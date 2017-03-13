@@ -1,2 +1,2 @@
 # RpeakChromData
-RpeakChrom package related data
+RpeakChrom package related data and script example
